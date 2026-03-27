@@ -9,9 +9,8 @@
 
 ## Implementations
 - Brute Force → `RunningSum_BruteForce.java`
-- Optimized solution → `RunningSum_Optimized.java`
--Prefix_sum ->'RunningSum_prefix.java'
-
+- Optimized solution → `RunningSum_prefixsum.java`
+- 
 ## Complexity
 - Time: O(n)
 - Space: O(1)
