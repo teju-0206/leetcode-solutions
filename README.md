@@ -17,6 +17,11 @@ Consistent practice of Data Structures and Algorithms using Java.
 - Find Pivot Index (#724)
 - Valid Palindrome (#125)
 
+### Day 04
+- Reverse String (#344)
+- Squares of a Sorted Array (#977)
+- Remove Duplicates from Sorted Array (#26)
+
 ---
 
 ## 🧠 Patterns Covered
